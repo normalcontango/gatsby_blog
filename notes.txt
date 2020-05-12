@@ -1,5 +1,3 @@
-added global styles with the styled components in gatsby-browser,
-created the script for creating paginate pages and posts in gatsby-node.js,
 
 
 
