@@ -1,0 +1,4 @@
+installed & configured gatsby-transformer-sharp gatsby-plugin-sharp,
+gatsby-plugin-mdx @mdx-js/mdx @mdx-js/react, gatsby-resolve-images,
+gatsby-plugin-google-fonts, made two posts containing frontmatter 
+
