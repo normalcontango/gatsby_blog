@@ -1,4 +1,2 @@
-installed & configured gatsby-transformer-sharp gatsby-plugin-sharp,
-gatsby-plugin-mdx @mdx-js/mdx @mdx-js/react, gatsby-resolve-images,
-gatsby-plugin-google-fonts, made two posts containing frontmatter 
+installed & configured gatsby-plugin-styled-components styled-components babel-plugin-styled-components. Added theme.js file with font and color variables. Created gatsby-browser.js and gatsby-ssr.js and imported the theme.
 
