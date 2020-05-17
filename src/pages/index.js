@@ -1,18 +1,17 @@
 import React from "react"
-import { Container, FeatureImage, Content } from "../components/"
-import { H1 } from "../elements"
+import { Container, FeatureImage, Content, ContentCard } from "../components/"
 
 export const IndexPage = () => {
   return (
     <Container>
       <FeatureImage />
       <Content>
-        <H1>Hello form card</H1>
-        <h2>Digital marketing</h2>
-        <p>
-          Digitla markejhr isd fsldf sldjf jilsd ifjisdjais fdlsdjf sldjf sldjf
-          sldjf lsdjkf sjkdf slkjdf lsjdf
-        </p>
+        <ContentCard
+          date="March 22 2020"
+          title="Learn Gatsby"
+          excerpt="blablablablabla, balblablabl"
+          slug="/test"
+        />
       </Content>
     </Container>
   )
